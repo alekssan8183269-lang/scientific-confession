@@ -38,6 +38,11 @@ We know you are busy. We don't want you to write a dry, 50-page PDF report. We m
 Are you currently sitting in front of a ruined experiment? Did your hypothesis just fail spectacularly? **Perfect. You are our ideal guest.**
 
 ### 📥 Step-by-step submission:
+1. Open an **[Issue]** right here on this repository.
+2. Or send us a brief summary of your project directly to our official email: **scientific.confession@example.com** *(Замени на свою рабочую почту)*.
+3. We will review your idea and send you further instructions on how to record your asynchronous audio-confession.
+
+### 📥 Step-by-step submission:
 1. Open an **[Issue]** on this repository or message the Head Curator directly on Telegram: **`@YourTelegramUsername`** *(Change this to your handle)*.
 2. Send us a brief summary of your project (even 1-2 paragraphs is fine).
 3. We will reach out to schedule your asynchronous audio-confession.
